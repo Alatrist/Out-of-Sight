@@ -1,7 +1,7 @@
 # Out-of-Sight
 * Out of Sight is an urban fantasy story-driven 2D adventure game inspired by Slavic mythology.
 
-* Team:
+# Team: 
 * Game design & Story: Filip Novák
 * Programming: Jan Vegricht and Jiří Berný
 * Art & Animation: Krystsina Ramanava
